@@ -6,7 +6,7 @@ class HelloWorld {
     // Prints "Hello World!" to the terminal window. - hacked by gOscar
     public static void main(String[] args) {
         int startValue = 33;    
-		int character;
+	int character;
 
         Scanner input = new Scanner(System.in);
 
@@ -41,8 +41,7 @@ class HelloWorld {
             }
             
             System.out.println("Hello World!!! Password is: ***   " + password + "   ***");
-            System.out.println("Hello World!!! Password is: ***   " + "NOPE" + "   ***");
-            
+        
         }
     }
 }
