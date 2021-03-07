@@ -10,7 +10,7 @@ class HelloWorld {
 
         Scanner input = new Scanner(System.in);
 
-        System.out.println("Enter password length: 8, 12, 16 (default), 24, 36, 128");
+        System.out.println("Enter password length: 8, 12, 16 (recommended), 24, 36, 128");
         int length = input.nextInt();
         System.out.println("(boolean) Would you like extended ASCII characters (ride or die)?");
         boolean fullAscii = input.nextBoolean();
