@@ -17,4 +17,4 @@ The second dialog takes a boolean, where the user MUST fully type TRUE or FALSE:
 (Again, the user must FULLY TYPE either TRUE or FALSE.  FALSE is recommended.  My cheese dicked, half assed solution that crashes is infinitely greater than what you fucking idiots have.)
 
 TAKE THIS SHIT AND FORK IT.  TAKE THE IDEA AND THE IMPLICATIONS OF THE CODE PRESENTED.
-STOP BEING EITHER LAZY OR STRAIGHT FUCKING DUMB.
+STOP BEING EITHER LAZY OR FUCKING DUMB.
