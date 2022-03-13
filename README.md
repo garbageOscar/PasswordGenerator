@@ -10,10 +10,10 @@ Running the application will present two dialogs.  The first one being:
 
 (The user should input his or her choice for a password length.)
 
-The second dialog takes a boolean, where the user MUST fully type TRUE or FALSE:
+The second dialog takes a boolean, where the user MUST fully type "true" or "false":
 
 ***(boolean) Would you like extended ASCII characters (ride or die)?
 
-(Again, the user must FULLY TYPE either TRUE or FALSE.  FALSE is recommended -- for now.)
+(Again, the user must FULLY TYPE either "true" or "false".  FALSE is recommended -- for now.)
 
 You're welcome and let's make progress together.
