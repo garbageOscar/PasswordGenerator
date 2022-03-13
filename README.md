@@ -12,7 +12,7 @@ Running the application will present two dialogs.  The first one being:
 
 The second dialog takes a boolean, where the user MUST fully type "true" or "false":
 
-***(boolean) Would you like extended ASCII characters (ride or die)?
+***(boolean) Would you like extended ASCII characters?
 
 (Again, the user must FULLY TYPE either "true" or "false".  FALSE is recommended -- for now.)
 
