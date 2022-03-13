@@ -16,4 +16,4 @@ The second dialog takes a boolean, where the user MUST fully type TRUE or FALSE:
 
 (Again, the user must FULLY TYPE either TRUE or FALSE.  FALSE is recommended -- for now.)
 
-You're welcome and let's' make progress together.
+You're welcome and let's make progress together.
