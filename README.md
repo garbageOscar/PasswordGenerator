@@ -16,5 +16,4 @@ The second dialog takes a boolean, where the user MUST fully type TRUE or FALSE:
 
 (Again, the user must FULLY TYPE either TRUE or FALSE.  FALSE is recommended -- for now.)
 
-TAKE THIS SHIT AND FORK IT.  TAKE THE IDEA AND THE IMPLICATIONS OF THE CODE PRESENTED.
-STOP BEING EITHER LAZY OR FUCKING DUMB.
+You're welcome and let's' make progress together.
