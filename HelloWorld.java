@@ -12,7 +12,7 @@ class HelloWorld {
 
         System.out.println("Enter password length: 8, 12, 16 (recommended), 24, 36, 128");
         int length = input.nextInt();
-        System.out.println("(boolean) Would you like extended ASCII characters (ride or die)?");
+        System.out.println("(boolean) Would you like extended ASCII characters?");
         boolean fullAscii = input.nextBoolean();
         input.close();
         
@@ -23,7 +23,7 @@ class HelloWorld {
             for (int a = 0; a <= length; a++) {
                 password = password + (char) (rand.nextInt(endValue - startValue) + startValue);
             }
-            System.out.println("Hello World!!! Password is: ***   " + password + "   ***");
+            System.out.println("Hello World!  Your password is: ***   " + password + "   ***");
         } else {
             int endValue = 255;
             String password = "";
@@ -40,7 +40,7 @@ class HelloWorld {
                 a++;
             }
             
-            System.out.println("Hello World!!! Password is: ***   " + password + "   ***");
+            System.out.println("Hello World!  Your password is: ***   " + password + "   ***");
         
         }
     }
