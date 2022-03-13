@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 class HelloWorld {
     // Your program begins with a call to main().
-    // Prints "Hello World!" to the terminal window. - hacked by gOscar
+    // Prints "Hello World!" to the terminal window. - hacked by garbageOscar
     public static void main(String[] args) {
         int startValue = 33;    
 	int character;
